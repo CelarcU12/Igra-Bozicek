@@ -1,0 +1,13 @@
+C:\šola\prog3\igrca\bozicek\bozicek\bin\Debug\bozicek.exe.config
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.csprojResolveAssemblyReference.cache
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.Properties.Resources.resources
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.csproj.GenerateResource.Cache
+C:\šola\prog3\igrca\bozicek\bozicek\bin\Debug\bozicek.exe
+C:\šola\prog3\igrca\bozicek\bozicek\bin\Debug\bozicek.pdb
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.exe
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.pdb
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.okno.resources
+C:\šola\prog3\igrca\bozicek\bozicek\bin\Debug\bozicek.exe.manifest
+C:\šola\prog3\igrca\bozicek\bozicek\bin\Debug\bozicek.application
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.exe.manifest
+C:\šola\prog3\igrca\bozicek\bozicek\obj\Debug\bozicek.application
